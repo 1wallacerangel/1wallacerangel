@@ -1,8 +1,7 @@
+##
 <div align="center">
   <a href="https://github.com/1wallacerangel">
-    
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1wallacerangel&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1wallacerangel&layout=compact&langs_count=7&theme=graywhite"/>
 </div>
   
