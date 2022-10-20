@@ -9,7 +9,7 @@
 
 <br>
 <div align="left" > 
-   <a href = "https://instagram.com/_wallacerangell"><img src="https://www.pngkit.com/png/full/72-723310_instagram-logo-button-logo-de-insta-png.png" width="30px" height="30px" color="white" target="_blank"></a>
+   <a href = "https://instagram.com/_wallacerangell"><img src="https://www.pngkit.com/png/full/72-723310_instagram-logo-button-logo-de-insta-png.png" width="30px" height="30px" background="white "color="white" target="_blank"></a>
    <a href = "https://www.linkedin.com/in/wallace-rangel-329615252" target="_blank"><img src="https://www.iconsdb.com/icons/preview/soylent-red/linkedin-6-xxl.png" width="30px" height="30px" color="white" target="_blank"></a>
 </div>  
   
