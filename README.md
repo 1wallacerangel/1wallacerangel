@@ -2,7 +2,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=1wallacerangel&show_icons=true&count_private=true&hide_border=true&title_color=000000&icon_color=ff6500&text_color=000000&bg_color=ffffff"/>
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1wallacerangel&layout=compact&hide_border=true&title_color=000000&text_color=000000&bg_color=ffffff" />
+  <img width="47%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1wallacerangel&layout=compact&hide_border=true&title_color=000000&text_color=000000&bg_color=ffffff" />
 </div>
 
  ##
