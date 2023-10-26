@@ -15,7 +15,7 @@
 ### Socials
 <br>
 <div align="left" > 
-   <a href = "https://www.linkedin.com/in/wallace-rangel-329615252" target="_blank"><img src="https://www.iconsdb.com/icons/preview/soylent-red/linkedin-6-xxl.png" width="45px" target="_blank"></a>
+   <a href = "https://www.linkedin.com/in/wallace-rangel-329615252" target="_blank"><img src="https://www.iconsdb.com/icons/preview/soylent-red/linkedin-6-xxl.png" width="47px" target="_blank"></a>
    
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff6500&height=120&section=footer"/>
