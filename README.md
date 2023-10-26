@@ -2,7 +2,7 @@
 
 <div align="left">  
   
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1wallacerangel&layout=compact&hide_border=true&title_color=000000&text_color=000000&bg_color=ffffff" />
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1wallacerangel&layout=compact&hide_border=true&title_color=000000&text_color=000000&bg_color=ffffff" />
 </div>
 
 ### Skills
