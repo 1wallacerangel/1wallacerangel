@@ -1,8 +1,8 @@
-<img width=75% src="https://capsule-render.vercel.app/api?type=waving&color=ff6500&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff6500&height=120&section=header"/>
 
 <div align="left">  
 
-  <img width="100%" height="80%" border="none" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1wallacerangel&layout=compact&hide_border=false&title_color=000000&text_color=000000&bg_color=ffffff" />
+  <img width="75%" height="80%" border="none" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1wallacerangel&layout=compact&hide_border=false&title_color=000000&text_color=000000&bg_color=ffffff" />
 </div>
 
 ### Skills
