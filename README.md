@@ -8,7 +8,7 @@
 
  ##
  
-##Socials
+## Socials
 <br>
 <div align="left" > 
    <a href = "https://www.linkedin.com/in/wallace-rangel-329615252" target="_blank"><img src="https://www.iconsdb.com/icons/preview/soylent-red/linkedin-6-xxl.png" width="30px" target="_blank"></a>
