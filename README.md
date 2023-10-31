@@ -13,7 +13,7 @@
  ##
  
 ### Socials
-<br>
+
 <div align="left" > 
    <a href = "https://www.linkedin.com/in/wallacerangelgama/" target="_blank"><img src="https://www.iconsdb.com/icons/preview/soylent-red/linkedin-6-xxl.png" width="47px" target="_blank"></a>
    
