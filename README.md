@@ -3,7 +3,7 @@
 <div align="left">  
   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1wallacerangel&layout=compact&hide_border=false&title_color=000000&text_color=000000&bg_color=ffffff" />
 </div>
-<div align="right">  
+<div align="center">  
   <h1>HI</h1>
 </div>
 
