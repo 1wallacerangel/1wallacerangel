@@ -3,7 +3,7 @@
 <div align="left">  
   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1wallacerangel&layout=compact&hide_border=false&title_color=000000&text_color=000000&bg_color=ffffff" />
 </div>
-<div align="right" height="150px">  
+<div height="150px">  
   <h1>Hi! My name is Wallace Rangel</h1>
 </div>
 
