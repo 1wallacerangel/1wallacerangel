@@ -1,10 +1,4 @@
-<img
-  align="center"
-  src="https://i.imgur.com/rvFnjfe.png"
-  alt="lexmarcos header"
-  height="auto"
-  width="1185"
-/>
+
 <img 
   width="100%"
   src="https://capsule-render.vercel.app/api?type=waving&color=ff6500&height=120&section=header"
