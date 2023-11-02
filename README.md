@@ -10,12 +10,6 @@
   />
 </div>
 
-<div
-  align="right" 
-  height="150px" 
-  scr="https://pngimg.com/uploads/mario/mario_PNG125.png"
-</div>  
-
 
 ### Skills
 
