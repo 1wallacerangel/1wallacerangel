@@ -4,11 +4,11 @@
 />
 
 <div align="left">  
-  <img height="195px" 
+  <img 
+    height="195px" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=1wallacerangel&layout=compact&hide_border=false&title_color=000000&text_color=000000&bg_color=ffffff" 
   />
 </div>
-
 
 ### Skills
 
@@ -19,8 +19,11 @@
 ### Socials
 
 <div align="left"> 
-   <a href = "https://www.linkedin.com/in/wallacerangelgama/" target="_blank">
-     <img src="https://www.iconsdb.com/icons/preview/soylent-red/linkedin-6-xxl.png" width="47px" target="_blank">
+   <a href = "https://www.linkedin.com/in/wallacerangelgama/" target="_blank"> 
+     <img 
+       src="https://www.iconsdb.com/icons/preview/soylent-red/linkedin-6-xxl.png" 
+       width="47px" 
+       target="_blank">
    </a>
   
   <img 
