@@ -1,11 +1,27 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff6500&height=120&section=header"/>
+<img
+  align="center"
+  src="https://i.imgur.com/rvFnjfe.png"
+  alt="lexmarcos header"
+  height="auto"
+  width="1185"
+/>
+<img 
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=ff6500&height=120&section=header"
+/>
 
 <div align="left">  
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1wallacerangel&layout=compact&hide_border=false&title_color=000000&text_color=000000&bg_color=ffffff" />
+  <img height="195px" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=1wallacerangel&layout=compact&hide_border=false&title_color=000000&text_color=000000&bg_color=ffffff" 
+  />
 </div>
-<div align="right" height="150px" scr="https://pngimg.com/uploads/mario/mario_PNG125.png">  
 
-</div>
+<div
+  align="right" 
+  height="150px" 
+  scr="https://pngimg.com/uploads/mario/mario_PNG125.png"
+</div>  
+
 
 ### Skills
 
