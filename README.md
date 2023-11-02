@@ -1,4 +1,3 @@
-
 <img 
   width="100%"
   src="https://capsule-render.vercel.app/api?type=waving&color=ff6500&height=120&section=header"
@@ -21,4 +20,8 @@
 
 <div align="left" > 
    <a href = "https://www.linkedin.com/in/wallacerangelgama/" target="_blank"><img src="https://www.iconsdb.com/icons/preview/soylent-red/linkedin-6-xxl.png" width="47px" target="_blank"></a>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff6500&height=120&section=footer"/>
+  
+<img 
+  width=100% 
+  src="https://capsule-render.vercel.app/api?type=waving&color=ff6500&height=120&section=footer"
+/>
