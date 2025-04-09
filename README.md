@@ -12,7 +12,7 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,scss,php)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,php)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
 ##
   
