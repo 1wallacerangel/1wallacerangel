@@ -1,5 +1,6 @@
 <img 
   width="70%"
+  align="center"
   src="https://capsule-render.vercel.app/api?type=waving&color=555555&height=120&section=header"
 />
 
