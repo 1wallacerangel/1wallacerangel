@@ -3,7 +3,7 @@
   src="https://capsule-render.vercel.app/api?type=waving&color=555555&height=120&section=header"
 />
 
-<div align="left">  
+<div align="center">  
   <img 
     height="195px" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=1wallacerangel&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=60606080" 
